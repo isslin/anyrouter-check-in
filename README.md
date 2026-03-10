@@ -1,3 +1,24 @@
+# 更新签名认证信息
+** 步骤
+<img width="1920" height="929" alt="image" src="https://github.com/user-attachments/assets/6b6c898e-b215-4fed-a3a3-a92b92de7464" />
+<img width="1920" height="929" alt="image" src="https://github.com/user-attachments/assets/a945d143-3566-4540-9eea-7ad9c1331104" />
+
+```json
+[
+  {
+    "name": "any-router-2",
+    "cookies": {
+      "session": "身份验证的 cookies 数据"
+    },
+    "api_user": "26150"
+  }
+]
+```
+session值
+<img width="1214" height="350" alt="image" src="https://github.com/user-attachments/assets/2280edfe-de9b-47b1-8db7-593000916d83" />
+
+
+
 # Any Router 多账号自动签到
 
 多平台多账号自动签到，理论上支持所有 NewAPI、OneAPI 平台，目前内置支持 Any Router 与 Agent Router，其它可根据文档进行摸索配置。
