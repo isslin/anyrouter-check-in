@@ -6,11 +6,19 @@
 ```json
 [
   {
-    "name": "any-router-2",
+    "name": "anyRouter",
     "cookies": {
-      "session": "身份验证的 cookies 数据"
+      "session": "https://anyrouter.top/console"
     },
     "api_user": "26150"
+  },
+  {
+    "name": "agentRouter",
+    "provider": "agentrouter",
+    "cookies": {
+      "session": "https://agentrouter.org/console"
+    },
+    "api_user": "87573"
   }
 ]
 ```
